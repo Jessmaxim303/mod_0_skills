@@ -1,0 +1,15 @@
+Class instance: green l.l. bean book bag
+
+Attributes:
+
+bagColor: (string) green
+currentCapacity: (floater)  40
+brand: (string)  L.L. Bean
+twoStraps: (boolean) true
+schoolPatch: (array)  varsity patch
+
+
+calculateAmountFull (subtrack currentCapacity with total volume) 23 - 40 = 17
+hasWaterBottle (if bag has bottle hold then must be true ir not false)  true  
+addSchoolPatch (add schoolPatch from array)  varsity patch
+carryOptions (can bag be carried with two straps true if not false) true

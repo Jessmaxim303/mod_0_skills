@@ -3,7 +3,7 @@ class: Book Bag
 Attributes:
 
 bagColor: (string)
-currentCapacity: (floater)
+currentCapacity: (float)
 brand: (string)
 twoStraps: (boolean)
 schoolPatch: (array)
@@ -11,7 +11,7 @@ schoolPatch: (array)
 Methods:
 
 calculateAmountFull (subtrack currentCapacity with total volume)
-hasWaterBottleHold (if bag has bottle hold then must be true)
+calculateWeightLimit (subtrack currentWeight from 50lbs)
 addSchoolPatch (add schoolPatch from array)
-carryOptions (Can bag be carried with two straps (true))
+addStudentName (add studentName from string)
 

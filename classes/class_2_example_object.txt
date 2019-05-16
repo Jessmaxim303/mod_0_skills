@@ -1,0 +1,15 @@
+Class instance: red desk with storage below
+
+Attributes:
+
+deskColor: (string) red
+weigthfDesk: (floater) 12
+ableToRoll: (boolean) true
+sizeOfDesk: (interger) 18
+
+Methods: 
+
+calculateSqInch (add the sq inch together to get size of desk) 9 * 2 = 18
+sizeFootPrint (subtrack sizeOfDesk with areas foot print) 48 - 30 = 18
+deskAbletoRoll (if able to roll true if not false) true has wheels
+colorMatch (pull color from array) pull "red" from array

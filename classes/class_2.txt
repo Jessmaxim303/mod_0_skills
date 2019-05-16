@@ -1,0 +1,16 @@
+class: desk
+
+Attributes:
+
+sizeOfDesk: (interger)
+weightOfDesk: (floater)
+deskColor: (string)
+ableToRoll: (boolean)
+
+Methods:
+
+calculateSqInch (add the sq inch together to get size of desk)
+sizeFootPrint (subtrack sizeOfDesk with areas foot print)
+deskAbletoRoll (if able to roll true if not false)
+colorMatch (pull color from array)
+

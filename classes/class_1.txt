@@ -3,9 +3,9 @@ class: Book Bag
 Attributes:
 
 bagColor: (string)
-currentCapacity: (float)
-brand: (string)
-twoStraps: (boolean)
+currentCapacity: (integer)
+studentName: (string)
+currentWeight: (float)
 schoolPatch: (array)
 
 Methods:
